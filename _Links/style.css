@@ -64,6 +64,7 @@ a{
   position: fixed;
   top: 80px;
   right: 80px;
+  z-index: 10;
 }
 p, li{
   font-size: 18pt;
